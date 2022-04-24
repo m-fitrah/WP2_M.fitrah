@@ -1,8 +1,3 @@
-<head>
-    <meta charset="UTF-8">
-    <title>Web Prog II | Merancang Template Sederhana Dengan Codeigneter</title>
-    <link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>/assets/css/stylebuku.css">
-</head>
 <section style="background:white">
     <h1><?php echo $judul ?></h1>
     <p align='justify'>Pada pengertian codeigniter di atas tadi di jelaskan bahwa codeigniter menggunakan metode MVC.apa itu 

@@ -5,9 +5,9 @@
     <title>Web Prog II | Merancang Template Sederhana Dengan Codeigneter</title>
     <link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>/assets/css/stylebuku.css">
 </head>
-<body style="background:white">
+<body>
     <div id="wrapper">
-        <header style="background:black">
+        <header>
             <hgroup>
                 <h1>RentalBuku.net</h1>
                 <h3>Membuat Template Sederhana dengan Codeigneter</h3>
